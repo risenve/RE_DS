@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "Primitives/Value",
+    "Semantic /Dark",
+    "Semantic /Light",
+    "Typography /Value"
+  ]
+}

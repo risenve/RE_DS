@@ -1,0 +1,72 @@
+{
+  "font": {
+    "family": {
+      "title": {
+        "value": "HelveticaNeueCyr",
+        "type": "text"
+      },
+      "headline": {
+        "value": "HelveticaNeueCyr",
+        "type": "text"
+      },
+      "lists": {
+        "value": "HelveticaNeueCyr",
+        "type": "text"
+      },
+      "body": {
+        "value": "HelveticaNeueCyr",
+        "type": "text"
+      }
+    },
+    "weight": {
+      "regular": {
+        "value": "Regular",
+        "type": "text"
+      },
+      "medium": {
+        "value": "Medium ",
+        "type": "text"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "text"
+      }
+    },
+    "font": {
+      "size": {
+        "2XL": {
+          "value": 24,
+          "type": "number"
+        },
+        "XL": {
+          "value": 21,
+          "type": "number"
+        },
+        "L": {
+          "value": 18,
+          "type": "number"
+        },
+        "XM": {
+          "value": 16,
+          "type": "number"
+        },
+        "M": {
+          "value": 15,
+          "type": "number"
+        },
+        "MS": {
+          "value": 14,
+          "type": "number"
+        },
+        "S": {
+          "value": 13,
+          "type": "number"
+        },
+        "XS": {
+          "value": 11,
+          "type": "number"
+        }
+      }
+    }
+  }
+}
