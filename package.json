@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "style-dictionary build",
-    "watch": "chokidar 'Primitives/**/*.json' 'Semantic/**/*.json' 'Typography/**/*.json' 'global.json' -c 'npm run build'"
+    "watch": "chokidar 'Primitives/**/*.json' 'Semantic/**/*.json' 'Typography/**/*.json' 'global.json' -c 'npm run build'",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "repository": {
     "type": "git",
